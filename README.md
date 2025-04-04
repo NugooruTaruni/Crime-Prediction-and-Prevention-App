@@ -1,6 +1,6 @@
 # Crime Prediction & Prevention App
 
-A smart city mobile application that uses real-time data, machine learning, and geographic information systems (GIS) to identify crime hotspots and empower citizens—especially women—with tools to make safer decisions in their environment.
+A smart city mobile application that uses real-time data, machine learning, and geographic information systems (GIS) to identify crime hotspots and empower citizens, especially women, with tools to make safer decisions in their environment.
 
 
 
@@ -68,5 +68,4 @@ Ensure that Flutter SDK and Android Studio are installed on your system.
 
 - Multi-language and accessibility features
 
-License
-This project is open-source and available under the MIT License.
+
